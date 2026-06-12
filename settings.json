@@ -8,7 +8,7 @@
   "server": {
     "ip": "Dilzar4.aternos.me",
     "port": 22663,
-    "version": "26.1.2"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
